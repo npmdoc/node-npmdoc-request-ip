@@ -1,4 +1,7 @@
-# api documentation for  [request-ip (v2.0.1)](https://github.com/pbojinov/request-ip)  [![npm package](https://img.shields.io/npm/v/npmdoc-request-ip.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-request-ip) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-request-ip.svg)](https://travis-ci.org/npmdoc/node-npmdoc-request-ip)
+# npmdoc-request-ip
+
+#### basic api documentation for  [request-ip (v2.0.1)](https://github.com/pbojinov/request-ip)  [![npm package](https://img.shields.io/npm/v/npmdoc-request-ip.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-request-ip) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-request-ip.svg)](https://travis-ci.org/npmdoc/node-npmdoc-request-ip)
+
 #### A small node.js module to retrieve the request's IP address
 
 [![NPM](https://nodei.co/npm/request-ip.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/request-ip)
@@ -103,7 +106,8 @@
             },
             "pkgid": "request-ip@2.0.1"
         }
-    ]
+    ],
+    "bin": {}
 }
 ```
 
